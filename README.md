@@ -1,6 +1,4 @@
-markdown
 
-Copy code
 # Controle de Estoque
 
 ## Descrição
